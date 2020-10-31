@@ -23,6 +23,7 @@
 - [UI5](https://t.me/ui5_js) - Русскоязычное SAPUI5/OpenUI5 сообщество.
 - [SAP C4C RU](https://t.me/sap_c4c) - Группа для русскоязычных специалистов по SAP C4C.
 - [SAP Community Voronezh](https://t.me/sapcmntvrn) - Любители и профессионалы SAP Воронежа.
+- [SAP ABAP ENGL](https://t.me/abap_sap) - Англоязычный канал про SAP с индусами. Периодически выкладывают кучу документов и материалов в свободный доступ.
 
 ## Вакансии
 
